@@ -1,0 +1,5 @@
+This is a Loader for iREB. Simply used to ensure that all files are downloaded to Temp. directories rather than having it on the directory that the user runs it from.
+-----------------------
+Published under the GPL v3.
+-----------------------
+~iH8sn0w
